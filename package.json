@@ -38,7 +38,7 @@
     "@typescript-eslint/eslint-plugin": "6.9.1",
     "@typescript-eslint/parser": "6.9.1",
     "eslint": "~8.52.0",
-    "@igniteui/angular-schematics": "~17.2.1321",
+    "@igniteui/angular-schematics": "~17.2.1323",
     "jasmine-core": "~5.1.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",

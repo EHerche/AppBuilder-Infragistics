@@ -16,13 +16,6 @@
   max-width: 320px;
   flex-shrink: 0;
 }
-.view-container {
-  overflow: auto;
-  min-width: 0;
-  min-height: 0;
-  flex-grow: 1;
-  flex-basis: 0;
-}
 .navbar-content {
   gap: 1rem;
 }
@@ -72,4 +65,10 @@
   min-width: 50px;
   min-height: 50px;
   max-width: 20%;
+}
+.grid {
+  min-width: 600px;
+  min-height: 300px;
+  flex-grow: 1;
+  flex-basis: 0;
 }
